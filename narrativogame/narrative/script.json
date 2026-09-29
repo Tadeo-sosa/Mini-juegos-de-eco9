@@ -1,0 +1,22 @@
+{
+  "title": {
+    "lines": [
+      "Narrador: Hoy acompañaremos a una pequeña en un paseo tranquilo.",
+      "Narrador: Tus decisiones abrirán distintos caminos."
+    ]
+  },
+  "forest_intro": {
+    "lines": [
+      "Narrador: Un bosque suave, hojas que susurran...",
+      "Narrador: Haz clic en los objetos brillantes."
+    ]
+  },
+  "kind_choice": {
+    "good": "Narrador: Ese gesto amable quedará en su recuerdo.",
+    "neutral": "Narrador: A veces, mirar también es elegir."
+  },
+  "ending": {
+    "kind": "Narrador: En la bondad, encontró un pequeño tesoro.",
+    "neutral": "Narrador: Tal vez otra vez el camino revele más."
+  }
+}
